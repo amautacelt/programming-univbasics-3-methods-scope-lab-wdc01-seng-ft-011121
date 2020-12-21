@@ -16,7 +16,7 @@ end
 
 
 def all_phrases
-  puts phrase
-  puts status
-  puts message
+  p phrase
+  p status
+  p message
 end
