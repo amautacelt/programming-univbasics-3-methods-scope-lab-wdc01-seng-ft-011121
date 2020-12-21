@@ -16,5 +16,5 @@ end
 
 
 def all_phrases
-  message.to_stdout
+  
 end
