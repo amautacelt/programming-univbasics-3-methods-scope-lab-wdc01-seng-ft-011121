@@ -20,3 +20,7 @@ def all_phrases
   puts status
   puts message
 end
+
+phrase
+status
+message
