@@ -16,7 +16,7 @@ end
 
 
 def all_phrases
-  p phrase
-  p status
-  p message
+  print phrase
+  print status
+  print message
 end
